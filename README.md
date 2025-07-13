@@ -65,7 +65,7 @@ This repository contains a workflow for automating cold email outreach using [n8
 ### Setup Instructions:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/vendor-email-automation.git
+   git clone https://github.com/nithinsankarbahunadam/vendor-email-automation.git
    cd vendor-email-automation
    ```
 
