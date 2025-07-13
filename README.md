@@ -94,7 +94,7 @@ This repository contains a workflow for automating cold email outreach using [n8
 
 ## 📜 License
 
-MIT License © [Your Name]
+MIT License © [Nithin Sankar]
 
 ---
 
@@ -106,6 +106,6 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork this
 
 ## 💬 Questions?
 
-Open an [Issue](https://github.com/your-username/vendor-email-automation/issues) or reach out via [LinkedIn](https://www.linkedin.com/in/nithinsankar) if you have any questions or ideas.
+Open an [Issue](https://github.com/your-username/vendor-email-automation/issues) or reach out via [LinkedIn](https://www.linkedin.com/in/nithinsankarbahunadam) if you have any questions or ideas.
 
 ---
